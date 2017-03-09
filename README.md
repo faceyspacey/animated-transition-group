@@ -1,5 +1,7 @@
 # AnimatedTransitionGroup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faceyspacey/animated-transition-group.svg)](https://greenkeeper.io/)
+
 `AnimatedTransitionGroup` is a sound answer to `<ReactTransitionGroup />` and any wishlist you might have had for it. 
 We suggest you become familiar with it and its higher level CSS-oriented counterpart first to truly understand `AnimatedTransitionGroups`'s benefits:
 
